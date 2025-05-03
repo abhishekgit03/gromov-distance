@@ -1,9 +1,9 @@
 
 # Gromov–Hausdorff Distance Demo on Metric Spaces
 
-**"Beyond Mere Token Analysis: A Hypergraph Metric Space Framework for Defending Against Socially Engineered LLM Attacks"**
 
 In the course of exploring Gromov–Hausdorff distance, I was inspired by the paper:
+**"Beyond Mere Token Analysis: A Hypergraph Metric Space Framework for Defending Against Socially Engineered LLM Attacks"**
 ["Beyond Mere Token Analysis" (Kaul, Saibewar, Babar, 2024)](https://papers.cool/venue/rnJxelIZrq@OpenReview).
 
 This paper highlights how the geometry of input prompts in Large Language Models (LLMs) can be leveraged by defenders — by modeling prompts as metric spaces and using Gromov–Hausdorff distance to distinguish benign from malicious prompts generated through social engineering attacks. 
