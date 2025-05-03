@@ -22,11 +22,11 @@ We explore:
 ```
 
 /images
-metric_spaces.png         # Scatter plot of Circle vs Noisy Ellipse
-distance_matrices.png     # Distance matrices comparison
-matching.gif              # Animation of point matching
-gh_evolution.png          # GH distance evolution during morphing
-morphing_sequence.png     # Snapshots of morphing at various stages
+-metric_spaces.png         # Scatter plot of Circle vs Noisy Ellipse
+-distance_matrices.png     # Distance matrices comparison
+-matching.gif              # Animation of point matching
+-gh_evolution.png          # GH distance evolution during morphing
+-morphing_sequence.png     # Snapshots of morphing at various stages
 main.py                       # Main Python script
 requirements.txt              # Python libraries needed
 
