@@ -78,7 +78,7 @@ It starts high and progressively drops toward zero as the structures become more
 ## 📚 References
 
 * [Gromov–Hausdorff Distance - Wikipedia](https://en.wikipedia.org/wiki/Gromov%E2%80%93Hausdorff_convergence)
-* [`persim` Python Library Documentation](https://scikit-tda.org/projects/persim/en/latest/)
+* [`persim` Python Library Documentation](https://persim.scikit-tda.org/en/latest/)
 
 
 
